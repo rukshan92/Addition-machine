@@ -1,0 +1,20 @@
+.header{
+    text-align: center;
+}
+
+.machine{
+    padding: 40px;
+    border: 1px solid black;
+    text-align: center;
+    background:#ccc;
+}
+.result{
+    text-align: center;
+    height: 5em;
+
+}
+
+.input h2{
+    display: inline;
+    
+}
